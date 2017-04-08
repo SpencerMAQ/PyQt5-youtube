@@ -119,8 +119,8 @@
       <file leaf-file-name="lesson12.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="204">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding>
                 <element signature="e#0#116#0" expanded="true" />
               </folding>
@@ -149,14 +149,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="D:/Libraries/Documents/GitHub/number_guesser/number_guesser.py" />
+        <option value="$PROJECT_DIR$/../number_guesser/number_guesser.py" />
         <option value="$PROJECT_DIR$/dsadasd.py" />
         <option value="$PROJECT_DIR$/lesson2.py" />
-        <option value="D:/Libraries/Documents/Anki/addons/z_testpy.py" />
-        <option value="D:/Libraries/Documents/Anki/addons/lesson5.py" />
+        <option value="$PROJECT_DIR$/../../Anki/addons/z_testpy.py" />
+        <option value="$PROJECT_DIR$/../../Anki/addons/lesson5.py" />
         <option value="$PROJECT_DIR$/lesson6.py" />
         <option value="$PROJECT_DIR$/lesson78.py" />
         <option value="$PROJECT_DIR$/sentdex1GUI.py" />
@@ -204,27 +207,17 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PyQt5 youtube" />
+              <option name="myItemId" value="PyQt5-youtube" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyQt5 youtube" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PyQt5 youtube" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -491,10 +484,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -531,7 +524,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Libraries/Documents/Anki/addons/z_testpy.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anki/addons/z_testpy.py" />
     <entry file="file://$PROJECT_DIR$/dsadasd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -576,7 +569,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Libraries/Documents/Anki/addons/z_testpy.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anki/addons/z_testpy.py" />
     <entry file="file://$PROJECT_DIR$/dsadasd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -611,7 +604,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Libraries/Documents/Anki/addons/z_testpy.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anki/addons/z_testpy.py" />
     <entry file="file://$PROJECT_DIR$/dsadasd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -636,7 +629,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Libraries/Documents/Anki/addons/z_testpy.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anki/addons/z_testpy.py" />
     <entry file="file://$PROJECT_DIR$/dsadasd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -651,7 +644,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Libraries/Documents/Anki/addons/z_testpy.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anki/addons/z_testpy.py" />
     <entry file="file://$PROJECT_DIR$/dsadasd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -666,7 +659,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Libraries/Documents/Anki/addons/z_testpy.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anki/addons/z_testpy.py" />
     <entry file="file://$PROJECT_DIR$/dsadasd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -744,22 +737,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Libraries/Documents/GitHub/number_guesser/number_guesser.py">
+    <entry file="file://$PROJECT_DIR$/../number_guesser/number_guesser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Libraries/Documents/GitHub/number_guesser/number_guesser.py">
+    <entry file="file://$PROJECT_DIR$/../number_guesser/number_guesser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Libraries/Documents/Anki/addons/z_testpy.py" />
-    <entry file="file://D:/Libraries/Documents/Anki/addons/lesson5.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anki/addons/z_testpy.py" />
+    <entry file="file://$PROJECT_DIR$/../../Anki/addons/lesson5.py" />
     <entry file="file://$PROJECT_DIR$/sentdex1GUI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -880,8 +873,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="204">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
             <element signature="e#0#116#0" expanded="true" />
           </folding>

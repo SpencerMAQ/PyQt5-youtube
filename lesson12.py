@@ -10,6 +10,8 @@ Menu Bar
 Put all together for Notepad program
 '''
 
+'dasdasd'
+
 class Notepad(QWidget):
 
     def __init__(self):
