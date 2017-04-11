@@ -33,7 +33,7 @@ class MyTable(QTableWidget):
             print('In this cell we have: ', value)
 
     def open_sheet(self):
-        self.check_change = False
+        self.check_change = False       # since this is false, c_current will not run
         # last argument is a filter so that it will only show CSV files
         path = QFileDialog.getOpenFileName(self, 'Open csv', os.getenv('HOME'), 'CSV(*.csv')
 
