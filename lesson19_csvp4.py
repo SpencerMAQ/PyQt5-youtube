@@ -120,4 +120,5 @@ class Sheet(QMainWindow):
 
 app = QApplication([])
 sheet = Sheet()
-sys.exit(app.exec_())
+#sys.exit(app.exec_())
+app.exec_()
